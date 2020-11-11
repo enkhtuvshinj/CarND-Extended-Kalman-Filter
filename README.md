@@ -1,9 +1,9 @@
 # Extended Kalman Filter Project
 Self-Driving Car Engineer Nanodegree Program
 ---
-## Objective
+## Description
 
-Implement the Extended Kalman Filter that utilize sensor data from both LIDAR and RADAR measurements for estimatetion of the state of a moving object.
+Implementation of the Extended Kalman Filter based on sensor data from both LIDAR and RADAR measurements for estimatetion of the state of a moving object.
 The project starter code was given [here](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project) and it was completely written in the object oriented programming style. 
 However, whole source code changed to Functional programming style in order to make it:
 * More re-usable
