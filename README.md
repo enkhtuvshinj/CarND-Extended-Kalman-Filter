@@ -14,7 +14,7 @@ All initial-given source codes were modified, except `json.hpp` file.
 ---
 ## EKF Algorithm
 
-EKF is implemented in according to below diagram.
+EKF is implemented in according to below diagram and all source codes are in `src` folder.
 
 <img src="Docs/extended_kalman_filter_algorithm.jpg" alt="Extended Kalman Filter Algorithm" />
 
@@ -40,7 +40,7 @@ EKF is implemented in according to below diagram.
 3. Compile: `cmake .. && make` 
    * On windows, you may need to run: `cmake .. -G "Unix Makefiles" && make`
 4. Run it: `./ExtendedKF `
-5. Click on the "Simulator" button in the bottom of the Udacity workspace, which will open a new virtual desktop. You should see a "Simulator" link on the virtual desktop. Double-click the "Simulator" link in that desktop to start the simulator.
+5. Run the Udacity's "Car Simulator"
 
 ## Code Style
 
