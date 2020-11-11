@@ -17,7 +17,6 @@ using Eigen::VectorXd;
 typedef struct extendedKalmanUpdate {
  	float 			noise_ax;
 	float 			noise_ay;
-	bool 			is_initialized;
 	long long 		previous_timestamp;
 	MatrixXd 		R_laser;		// Laser measurement noise covariance matrix
 	MatrixXd 		R_radar;		// Radar measurement noise covariance matrix
