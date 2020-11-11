@@ -8,6 +8,7 @@ The project starter code was given [here](https://github.com/udacity/CarND-Exten
 However, whole source code changed to Functional programming style in order to make it:
 * More re-usable
 * More testable (unit test)
+
 All initial given source codes were modified, except json.hpp file. The main algorithm is exactly same, but its implementation is different due to FP style.
 
 ---
