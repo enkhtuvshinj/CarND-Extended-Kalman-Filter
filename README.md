@@ -14,7 +14,7 @@ All initial-given source codes were modified, except `json.hpp` file.
 ---
 ## EKF Algorithm
 
-EKF is implemented in according to below diagram and all source codes are in [src](/src) folder.
+EKF is implemented in according to below diagram given by Udacity and all source codes are in [src](/src) folder.
 
 <img src="Docs/extended_kalman_filter_algorithm.jpg" alt="Extended Kalman Filter Algorithm" />
 
