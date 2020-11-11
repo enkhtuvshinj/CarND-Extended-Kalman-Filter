@@ -50,8 +50,8 @@ After built and run `./ExtendedKF `, the Udacity's "Car Simulator" needs to be r
 
 ## Unit test
 
-Unit test's performed using [Boost Test Library](https://www.boost.org/doc/libs/1_45_0/libs/test/doc/html/index.html). Example simple test cases are created in test_case.cpp file. It can be compiled using Boost.UTF library, but it is not mandatory for the project.
-It was used to carry out the unit test for Predict() and Update() functions.
+Unit test's performed using [Boost Test Library](https://www.boost.org/doc/libs/1_45_0/libs/test/doc/html/index.html). Example simple test cases are created in `test_case.cpp` file. It can be compiled using `Boost.UTF` library, but it is not mandatory for the project.
+It was used to carry out the unit test for `Predict(...)` and `Update(...)` functions in `kalman_filter.h`.
 
 ## Project Rubric (RMSE)
 
