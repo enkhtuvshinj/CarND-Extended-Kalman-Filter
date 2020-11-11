@@ -9,7 +9,7 @@ However, whole source code changed to Functional programming style in order to m
 * More re-usable
 * More testable (unit test)
 
-All initial given source codes were modified, except json.hpp file. 
+All initial-given source codes were modified, except `json.hpp` file. 
 
 ---
 ## EKF Algorithm
