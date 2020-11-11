@@ -13,7 +13,11 @@ All initial given source codes were modified, except json.hpp file.
 
 ---
 ## EKF Algorithm
+
+EKF is implemented in according to below diagram.
+
 <img src="Docs/extended_kalman_filter_algorithm.jpg" alt="Extended Kalman Filter Algorithm" />
+
 ---
 ## Project Dependencies
 
