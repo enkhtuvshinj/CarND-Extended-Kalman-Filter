@@ -40,7 +40,8 @@ EKF is implemented in according to below diagram and all source codes are in `sr
 3. Compile: `cmake .. && make` 
    * On windows, you may need to run: `cmake .. -G "Unix Makefiles" && make`
 4. Run it: `./ExtendedKF `
-5. Run the Udacity's "Car Simulator"
+
+After built and run `./ExtendedKF `, the Udacity's "Car Simulator" needs to be run to see how EKF works. `./ExtendedKF ` application connects with the car simulator through [uWebSocket](https://github.com/uNetworking/uWebSockets) to exchange sensor data.
 
 ## Code Style
 
